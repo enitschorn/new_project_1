@@ -1,0 +1,11 @@
+{
+  "name": "new_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:glenntippett/new_project.git",
+  "author": "Glenn Tippett <glenn.tippett@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "sh lang.sh"
+  }
+}
